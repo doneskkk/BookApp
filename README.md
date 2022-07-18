@@ -6,4 +6,5 @@ Book App with SpringBoot
 - Spring Boot (Spring MVC)
 - Hibernate
 - Spring Data JPA
+- SQL (MySQL)
 - Thymeleaf
